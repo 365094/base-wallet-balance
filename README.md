@@ -69,3 +69,6 @@ Do not commit:
 ## License
 
 MIT
+
+## Maintenance note 2026-06-11
+- Improved documentation clarity for public Base usage.
